@@ -1,0 +1,10 @@
+langgraph
+langchain-ollama
+python-dotenv
+langgraph-checkpoint-postgres
+psycopg[binary]
+psycopg-pool
+redis
+rq
+fastapi
+uvicorn[standard]
